@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlahariAnirudh
-- 👀 I’m interested in ... CODING AND ETHICAL HACKING 
+- 👀 I’m interested in ... ARDINO CODING AND ETHICAL HACKING 
 - 🌱 I’m currently learning ... KALI LUNIX AND PYTHON PROGRAMING 
 - 💞️ I’m looking to collaborate on ... ANYONE 
 - 📫 How to reach me ... NANIRAJNAIDU29@GMAIL.COM
